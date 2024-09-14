@@ -3,7 +3,6 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> </p>
 
 - 📋 Check out My Resume at [**Resume**](https://drive.google.com/file/d/10jnJdN2ogBNpmhi8CprF_bYU_LBsA3YH/view?usp=sharing)
 
